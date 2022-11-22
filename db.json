@@ -1,2 +1,230 @@
-[core]
-	repositoryformatversion = 0
+
+    
+    
+{
+
+    "men": [
+
+      {
+
+        "title": "Watch",
+
+        "price": "250",
+
+        "image1": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/m/p/r/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfjfsyjfgs.jpeg?q=70",
+
+        "image2": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/k/z/t/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mf34mfn8cy.jpeg?q=70",
+
+        "image3": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/g/1/i/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfpgjnnvzn.jpeg?q=70",
+
+        "image4": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/r/r/c/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfgpfnehqy.jpeg?q=70"
+
+      },
+
+      {
+
+        "title": "Mobile",
+
+        "price": "250",
+
+        "image1": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/m/p/r/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfjfsyjfgs.jpeg?q=70",
+
+        "image2": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/k/z/t/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mf34mfn8cy.jpeg?q=70",
+
+        "image3": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/g/1/i/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfpgjnnvzn.jpeg?q=70",
+
+        "image4": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/r/r/c/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfgpfnehqy.jpeg?q=70"
+
+      },
+
+      {
+
+        "title": "Watch",
+
+        "price": "250",
+
+        "image1": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/m/p/r/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfjfsyjfgs.jpeg?q=70",
+
+        "image2": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/k/z/t/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mf34mfn8cy.jpeg?q=70",
+
+        "image3": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/g/1/i/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfpgjnnvzn.jpeg?q=70",
+
+        "image4": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/r/r/c/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfgpfnehqy.jpeg?q=70"
+
+      },
+
+      {
+
+        "title": "Watch",
+
+        "price": "250",
+
+        "image1": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/m/p/r/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfjfsyjfgs.jpeg?q=70",
+
+        "image2": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/k/z/t/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mf34mfn8cy.jpeg?q=70",
+
+        "image3": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/g/1/i/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfpgjnnvzn.jpeg?q=70",
+
+        "image4": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/r/r/c/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfgpfnehqy.jpeg?q=70"
+
+      },
+
+      {
+
+        "title": "Watch",
+
+        "price": "250",
+
+        "image1": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/m/p/r/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfjfsyjfgs.jpeg?q=70",
+
+        "image2": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/k/z/t/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mf34mfn8cy.jpeg?q=70",
+
+        "image3": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/g/1/i/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfpgjnnvzn.jpeg?q=70",
+
+        "image4": "https://rukminim1.flixcart.com/image/832/832/kc29n680/headphone/r/r/c/ath-m30x-professional-monitor-headphones-audio-technica-original-imaft9mfgpfnehqy.jpeg?q=70"
+
+      }
+
+    ],
+
+    "products": [
+
+      {
+
+        "id": "M3LABD1001",
+
+        "title": "cello Signature Moonlit Ball Pen  (Blue)",
+
+        "price": "140",
+
+        "category": "Men",
+
+        "site": "Buy On Flipkart",
+
+        "rating": "4.4",
+
+        "button": "https://www.flipkart.com/cello-signature-moonlit-ball-pen/p/itm0b52baef8d43e?pid=PENF8AB8QB7MKSQX&lid=LSTPENF8AB8QB7MKSQXVRZHT1&marketplace=FLIPKART&q=pen+gift++for+men&store=dgv&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=79a5ef79-c5b6-4340-9d5a-6c61895bf4e6.PENF8AB8QB7MKSQX.SEARCH&ppt=sp&ppn=sp&ssid=01ih5gquio0000001668865564686&qH=76ce1cb0b2e1e4c2",
+
+        "image1": "https://rukminim1.flixcart.com/image/832/832/l58iaa80/pen/n/y/r/-original-imagfyfbryayzx9r.jpeg?q=70",
+
+        "image2": "https://rukminim1.flixcart.com/image/832/832/l58iaa80/pen/1/a/m/-original-imagfyfbss7j6nz7.jpeg?q=70",
+
+        "image3": "https://rukminim1.flixcart.com/image/832/832/l58iaa80/pen/v/j/r/-original-imagfyfbzmrbxjtw.jpeg?q=70",
+
+        "image4": "https://rukminim1.flixcart.com/image/832/832/l58iaa80/pen/u/r/3/-original-imagfyfbna4wffm8.jpeg?q=70"
+
+      },
+
+      {
+
+        "id": "M4LABD1002",
+
+        "title": "GiftoKing Personalized Water Bottle",
+
+        "price": "499",
+
+        "category": "Men",
+
+        "site": "Buy On Amazon",
+
+        "rating": "3.9",
+
+        "button": "https://www.amazon.in/GiftoKing-Personalized-Stainless-Insulated-Temperature/dp/B0B3JNBMJ6/ref=sr_1_5?crid=1HW9CVZWE2XLE&keywords=personalized+bottle+with+name&qid=1669009545&qu=eyJxc2MiOiI1Ljc4IiwicXNhIjoiNS4yOSIsInFzcCI6IjMuNDUifQ%3D%3D&sprefix=pesonalized+bottle%2Caps%2C470&sr=8-5",
+
+        "image1": "https://m.media-amazon.com/images/I/51Kw+hiJb6L._SX679_.jpg",
+
+        "image2": "https://m.media-amazon.com/images/I/41VoJLrWcpL._SS40_.jpg",
+
+        "image3": "https://m.media-amazon.com/images/I/418-s4JHIzL.jpg",
+
+        "image4": "https://m.media-amazon.com/images/I/41XRG93-ZoL.jpg"
+
+      },
+
+      {
+
+        "id": "F3CABD1003",
+
+        "title": "ESCAPER Friends Forever Diary",
+
+        "price": "196",
+
+        "category": "Female",
+
+        "site": "Buy On Flipkart",
+
+        "rating": "4.2",
+
+        "button": "https://www.flipkart.com/escaper-friends-forever-ruled-designer-diary-notebook-notepad-a5-diary-ruled-160-pages/p/itmd0e2f55639771?pid=DIAFPE5K6SBYZHHG&lid=LSTDIAFPE5K6SBYZHHG1RMXJV&marketplace=FLIPKART&q=pen+diary+combo&store=dgv&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=fe8b4ef7-3128-4490-beea-eab21967c536.DIAFPE5K6SBYZHHG.SEARCH&ppt=sp&ppn=sp&ssid=eg3gmnuzhc0000001669010019574&qH=5dd5f645463ce7ba",
+
+        "image1": "https://rukminim1.flixcart.com/image/832/832/k6mibgw0/diary-notebook/9/h/m/escape-escape-diary-friends-forever-1009-original-imafpyrqzngeenca.jpeg?q=70",
+
+        "image2": "https://rukminim1.flixcart.com/image/416/416/k6l2vm80/diary-notebook/9/h/m/escape-diary-friends-forever-1009-original-imafpyrqcyejjt85.jpeg?q=70",
+
+        "image3": "https://rukminim1.flixcart.com/image/416/416/k73nlow0/diary-notebook/b/e/n/escape-escape-diary-top-secret-stamp-diary-ruled-vintage-diary-original-imafpe85uzebbhtg.jpeg?q=70",
+
+        "image4": "https://rukminim1.flixcart.com/image/416/416/k6mibgw0/diary-notebook/9/h/m/escape-escape-diary-friends-forever-1009-original-imafpfh8jfqdrgrk.jpeg?q=70"
+
+      },
+
+      {
+
+        "id": "F2GASD1004",
+
+        "title": "Diary and Pen Combo",
+
+        "price": "259",
+
+        "category": "Female",
+
+        "site": "Buy On Amazon",
+
+        "rating": "4.3",
+
+        "button": "https://www.amazon.in/unicorn-notebook-pencil-bullet-eraser/dp/B0B4G65CPG/ref=sr_1_5?keywords=diary+and+pen+combo&qid=1669010904&qu=eyJxc2MiOiIzLjk5IiwicXNhIjoiMi45MiIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-5",
+
+        "image1": "https://m.media-amazon.com/images/I/71e3OgaC1yL.jpg",
+
+        "image2": "https://m.media-amazon.com/images/I/614Ht3IYV5S.jpg",
+
+        "image3": "https://m.media-amazon.com/images/I/61FAgNXRMwL.jpg",
+
+        "image4": "https://m.media-amazon.com/images/I/51jM+kC1b3L.jpg"
+
+      },
+
+      {
+
+        "id": "F2GASD1005",
+
+        "title": "Stationery Combo Pack Unicorn Furry Diary",
+
+        "price": "539",
+
+        "category": "Female",
+
+        "site": "Buy On Amazon",
+
+        "rating": "4.6",
+
+        "button": "https://www.amazon.in/dp/B0B58XGNRX/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B0B58XGNRX&pd_rd_w=YXcBF&content-id=amzn1.sym.2d591cad-b72c-4edb-a913-c75b0cb961d6&pf_rd_p=2d591cad-b72c-4edb-a913-c75b0cb961d6&pf_rd_r=JESANS5Z0E3MW84GZ5KS&pd_rd_wg=PPuf8&pd_rd_r=cd65c626-fa43-4b97-87b6-6627ed1ba320&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+
+        "image1": "https://m.media-amazon.com/images/I/51ya444rsTL._SX679_.jpg",
+
+        "image2": "https://m.media-amazon.com/images/I/615SohxfxPL._SX679_.jpg",
+
+        "image3": "https://m.media-amazon.com/images/I/71iwPiSnUNL._SY879_.jpg",
+
+        "image4": "https://m.media-amazon.com/images/I/614Ht3IYV5S._SX679_.jpg"
+
+      }
+
+    ]
+
+  }
+
+ 
+
+
+
+
